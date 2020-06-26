@@ -1,0 +1,1 @@
+These are my solutions to Duke University's Coursera course: Java Programming: Solving problems with software.
